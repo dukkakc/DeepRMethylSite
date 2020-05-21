@@ -44,7 +44,7 @@ DeepRMethylSite provides a deep-learning method for Arginine Methylation sites p
 PKKQLILKVISGQQLPKPPDSMFGDRGEIIDPFVEVEIIGLPVDCCKDQTR
 
 # Citation:
-Please cite the following paper for using DeepRMethylSite: Meenal Chaudhari a+ , Niraj Thapa a+ , Kaushik Roy b , Robert H. Newman c , Hiroto Saigo d , Dukka B. KC, DeepRMethylSite: Prediction of Arginine Methylation in Proteins using Deep Learning, Molecular Omics 2020.
+Please cite the following paper for using DeepRMethylSite: Meenal Chaudhari*, Niraj Thapa*, Kaushik Roy, Robert H. Newman, Hiroto Saigo, Dukka B. KC, DeepRMethylSite: Prediction of Arginine Methylation in Proteins using Deep Learning, Molecular Omics 2020.
 
  # Contact 
  Feel free to contact us if you need any help : dukka.kc@wichita.edu 
