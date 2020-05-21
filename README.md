@@ -13,7 +13,7 @@ DeepRMethylSite provides a deep-learning method for Arginine Methylation sites p
   Winrar or any compression program to open .rar file
   
  # Running on CPU or GPU
- To run in CPU installation of Tensorflow and Keras will suffice. However, to run in GPU, further Tensorflow-gpu and keras-gpu must be installed. Tensorflow GPU and Keras GPU version utilizes cuda cores in our GPU (in our case NVIDIA 2080 TI) for faster training time. However, running in GPU is not mandatory.
+ To run in CPU, installation of Tensorflow and Keras will suffice. However, to run in GPU, further Tensorflow-gpu and keras-gpu must be installed. Tensorflow GPU and Keras GPU version utilizes cuda cores in our GPU (in our case NVIDIA 2080 TI) for faster training time. However, running in GPU is not mandatory.
  
  # Dataset
  Dataset are in fasta format. Both training and testing datasets are provided which are independent (one does not include others).
