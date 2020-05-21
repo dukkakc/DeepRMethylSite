@@ -34,14 +34,18 @@ DeepRMethylSite provides a deep-learning method for Arginine Methylation sites p
       - Download test datasets, test_s33_Pos_51.fasta and test_s33_Neg_51.fasta, and python code model_gridsearch_load.py.
         Keep them in the same folder as model files.
       - Run model_gridsearch_load.py and you will get output mentioned in our research.
+      - In linux code will be, $python3 model_gridsearch_load.py
  # Prediction for your dataset
  The format should be same as the test dataset which is basically a FASTA format. This model works for window size 51 only meaning for the residue of your interest you should provide 25 resiudes downstream and 25 residues upstream. e.g. if you want to predict whether the 'Arginine' residue in Position 735 in protein Q4KWH8 is methylated or not, the input file should contain 25 residues upstream of R and 25 residues downstream of R.
  
  The general format for your dataset should be:
 
->sp|Q4KWH8|PLCH1_HUMAN%730%755
+>sp|Q4KWH8|PLCH1_HUMAN%730%755<br/>
 PKKQLILKVISGQQLPKPPDSMFGDRGEIIDPFVEVEIIGLPVDCCKDQTR
 
+# Citation:
+Please cite the following paper for using DeepRMethylSite: Meenal Chaudhari a+ , Niraj Thapa a+ , Kaushik Roy b , Robert H. Newman c , Hiroto Saigo d , Dukka B. KC, DeepRMethylSite: Prediction of Arginine Methylation in Proteins using Deep Learning, Molecular Omics 2020.
+
  # Contact 
- Feel free to contact us if you need any help : dukka.kc@wichita.edu
+ Feel free to contact us if you need any help : dukka.kc@wichita.edu 
  
