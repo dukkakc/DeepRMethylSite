@@ -1,14 +1,14 @@
 # DeepRMethylSite: Prediction of Arginine Methylation in Proteins using Deep Learning
 
-DeepRMethylSite provides a deep-learning method for Arginine Methylation sites prediction in proteins. It is implemented using Keras and Tensorflow backend (). 
+DeepRMethylSite provides a deep-learning method for Arginine Methylation sites prediction in proteins. It is implemented using Keras (version 2.2.4) and Tensorflow (version 1.15) backend. 
 
 
 
 
-# Requirement
+# Pre-requisites
   >=Python3.6
-  Backend = Tensorflow <br/>
-  Keras <br/>
+  Tensorflow (>version 1.15)<br/>
+  Keras (>version 2.2.4)<br/>
   Numpy <br/>
   Biopython <br/>
   Sklearn <br/>
