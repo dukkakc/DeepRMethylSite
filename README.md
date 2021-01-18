@@ -45,8 +45,7 @@ PKKQLILKVISGQQLPKPPDSMFGDRGEIIDPFVEVEIIGLPVDCCKDQTR
 
 # Citation:
 Please cite the following paper if you use DeepRMethylsite.
-DeepRMethylSite: Meenal Chaudhari*, Niraj Thapa*, Kaushik Roy, Robert H. Newman, Hiroto Saigo, Dukka B. KC, DeepRMethylSite: Prediction of Arginine Methylation in Proteins using Deep Learning, Molecular Omics, 2020 (In Revision).
-
+DeepRMethylSite: Meenal Chaudhari*, Niraj Thapa*, Kaushik Roy, Robert H. Newman, Hiroto Saigo, Dukka B. KC, DeepRMethylSite: Prediction of Arginine Methylation in Proteins using Deep Learning, Mol. Omics, 2020,16, 448-454.
  # Contact 
  Feel free to contact us if you need any help : dukka.kc@wichita.edu 
  
